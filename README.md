@@ -2,6 +2,8 @@
 
 ![genie97's github stats](https://github-readme-stats.vercel.app/api?username=genie97&show_icons=true&theme=buefy)
 
+[![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=genie97&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **genie97/genie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
