@@ -6,7 +6,10 @@
 
 - 🌱 I’m currently learning Spring Boot, Vue.js
 - 👯 Collaboration project 
-  - [JeonJuApp](https://github.com/JeonJuApp)
+  - 2019 [JeonJuApp](https://github.com/JeonJuApp)
+  - 2018 [Sovigation](https://github.com/Sovigation)
+  - 2018 [G-Little-BY-Little](https://github.com/G-Little-BY-Little)
+  - 2017 [Problem Bingo](https://github.com/ProblemBingo)
 
 <!--
 **genie97/genie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
