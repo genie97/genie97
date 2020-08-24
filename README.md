@@ -1,5 +1,7 @@
 ### genie97 :peach:
 
+![genie97's github stats](https://github-readme-stats.vercel.app/api?username=genie97&show_icons=true&theme=buefy)
+
 <!--
 **genie97/genie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
