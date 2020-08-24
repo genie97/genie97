@@ -4,6 +4,9 @@
 
 [![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=genie97&layout=compact&theme=buefy&hide=python)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🌱 I’m currently learning Spring Boot, Vue.js
+- 👯 I’m looking to collaborate on [JeonJuApp](https://github.com/JeonJuApp)
+
 <!--
 **genie97/genie97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
