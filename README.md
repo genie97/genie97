@@ -6,6 +6,7 @@
 
 - 🌱 I’m currently learning Spring Boot, Vue.js
 - 👯 Collaboration project 
+  - 2020 [Cobook](https://github.com/Makers101/Cobook)
   - 2019 [JeonJuApp](https://github.com/JeonJuApp)
   - 2018 [Sovigation](https://github.com/Sovigation)
   - 2018 [G-Little-BY-Little](https://github.com/G-Little-BY-Little)
